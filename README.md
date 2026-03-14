@@ -24,7 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
-
+blob:https://web.whatsapp.com/950b1e87-72b3-4f00-a82d-ece97128b90b
 
 
 
