@@ -25,6 +25,7 @@
 **CIRCUIT DIAGRAM:**
 
 
+![cfcebf20-c3e7-447b-a049-2b9055666c8a](https://github.com/user-attachments/assets/0a5d5e5c-71ee-4b10-bba8-640cbb8858ba)
 
 
 
@@ -33,6 +34,8 @@
 
 
 
+**tabular column:**
+![9c228199-db5b-4e39-a87e-c87cb2392dac](https://github.com/user-attachments/assets/e781988a-96a2-481c-94d4-5420d09a2d56)
 
 
 **PROCEDURE:**
