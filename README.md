@@ -1,4 +1,4 @@
-# VERIFICATION OF KIRCHHOFF’S LAWS
+![cfcebf20-c3e7-447b-a049-2b9055666c8a](https://github.com/user-attachments/assets/6c3bfae9-60b7-4226-8430-e6a792142c30)# VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
 
@@ -27,11 +27,14 @@
 
 
 
+![cfcebf20-c3e7-447b-a049-2b9055666c8a](https://github.com/user-attachments/assets/016c952d-5379-4f31-81a4-cd5e0f1ed410)
 
 
 
 
 
+**tabular column**
+![9c228199-db5b-4e39-a87e-c87cb2392dac](https://github.com/user-attachments/assets/c90b2847-344f-44a5-8a76-6074f564dc1b)
 
 
 
