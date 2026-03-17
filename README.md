@@ -24,16 +24,16 @@
 
 **CIRCUIT DIAGRAM:**
 
-blob:https://web.whatsapp.com/950b1e87-72b3-4f00-a82d-ece97128b90b
-
-
-![9c228199-db5b-4e39-a87e-c87cb2392dac](https://github.com/user-attachments/assets/54c5b3b2-ebe8-41b5-8cc2-ace33ed0adf2)
+![cfcebf20-c3e7-447b-a049-2b9055666c8a](https://github.com/user-attachments/assets/fec9be11-05c5-44e2-a42e-b8cd6ca5264d)
 
 
 
 
 
 
+
+**tabular column:**
+![9c228199-db5b-4e39-a87e-c87cb2392dac](https://github.com/user-attachments/assets/3b333800-73a4-4ab4-ad7c-bab705adea92)
 
 
 **PROCEDURE:**
